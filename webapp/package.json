@@ -19,7 +19,7 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^14.4.3",
-    "antd": "^4.24.2",
+    "antd": "^5.16.4",
     "aos": "^2.3.4",
     "axios": "^1.6.0",
     "axios-retry": "^3.3.1",
