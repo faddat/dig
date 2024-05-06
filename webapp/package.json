@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@ant-design/icons": "^4.7.0",
+    "@ant-design/icons": "^5.3.7",
     "@cosmjs/amino": "^0.29.0",
     "@cosmjs/cosmwasm-stargate": "0.29.3",
     "@cosmjs/launchpad": "^0.27.1",
